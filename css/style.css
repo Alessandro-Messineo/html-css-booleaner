@@ -1,7 +1,22 @@
 /* Stile header */
 
-
 /* Stile main */
+.span-yellow {
+    background-color: yellow;
+}
 
+#span-blue{
+    color: blue;
+}
 
+/* Stile tabella */
+th {
+    text-align: left;
+    background-color: rgb(69, 156, 238);
+    color: white;
+}
+
+.bg-tr {
+    background-color: rgb(139, 221, 221);
+}
 /* Stile footer */
