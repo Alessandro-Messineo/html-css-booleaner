@@ -20,3 +20,27 @@ th {
     background-color: rgb(139, 221, 221);
 }
 /* Stile footer */
+
+h3 {
+    color: gray;
+    
+}
+
+h4 {
+    color: white;
+    
+    
+}
+
+.bg-img-monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 270px;
+    height: 200px; 
+   
+}
+
+.bg-img-graph{
+    background-image: url(../img/graph.jpg);
+    width: 270px;
+    height: 200px; 
+}
